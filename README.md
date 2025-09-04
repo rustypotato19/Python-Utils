@@ -3,6 +3,7 @@ A repository of my python utils
 
 ## big_number.py
 A custom class for handling large numbers up to 1x10^4300.
+Works by handling mantissa and exponent as separate values.
 ### Implementations
 - arithmetic operators: +, -, *, /
 - casting: float, int
