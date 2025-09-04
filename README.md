@@ -27,7 +27,7 @@ A custom class to handle password checks
 - match_pass_criteria: checks a string (password) against provided regex criteria in a list
 
 By default:
-- at lest 1 special character
+- at least 1 special character
 - at least 1 lowecase letter
 - at least 1 uppercase letter
 - at least 8 characters long
