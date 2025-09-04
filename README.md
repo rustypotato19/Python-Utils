@@ -15,7 +15,7 @@ Works by handling mantissa and exponent as separate values.
 - setters: setNumber, setMantissa, setExponent
 
 ## str_utils.py
-A custom class to handle case manipulation
+A custom class to handle string manipulation and actions
 ### Implementation
 - to_upper: a-z -> A-Z
 - to_lower: A-Z -> a-z
