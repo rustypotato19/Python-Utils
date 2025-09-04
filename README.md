@@ -25,6 +25,7 @@ A custom class to handle string manipulation and actions
 A custom class to handle password checks
 ### Current Implementations
 - match_pass_criteria: checks a string (password) against provided regex criteria in a list
+
 By default:
 - at lest 1 special character
 - at least 1 lowecase letter
